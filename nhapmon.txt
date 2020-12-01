@@ -1,0 +1,20 @@
+Câu hỏi: 
+1 , trình bày nhiệm vụ của anh / chị trong dự án theo từng pha
+	Pha phân tích:
+		sơ đồ phân rã chức năng
+	Pha thiết kế:
+		giao diện quản lý user
+		thiết kế cơ sở dữ liệu
+	Pha kiểm thử:
+		test chức năng
+2 , trình bày thiết kế chi tiết của 1 unit / module / chức năng mà anh chị nhận được 
+	cho nhiệm vụ ở pha phát triển hoặc kiểm thử
+	
+	
+3 , Nêu ít nhất 1 bất cập chưa đạt tiêu chuẩn từ sản phẩm của pha trước. Phải sửa như thế nào để đạt chuẩn.
+Đầu vào quá trình thiết kế:
+	Tài liệu : 
+	-Yêu cầu chức năng : tiêu chuẩn Stakeholder Requests
+	-Mô hình các quy trình nghiệp vụ : tiêu chuẩn Use-Case
+
+
